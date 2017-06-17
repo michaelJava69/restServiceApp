@@ -1,0 +1,5 @@
+org.rbsg.java.config
+org.rbsg.java.controller
+org.rbsg.java.model
+org.rbsg.java.service
+org.rbsg.java.viewresolver
